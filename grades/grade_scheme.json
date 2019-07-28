@@ -1,0 +1,39 @@
+{ "name" : "Week 0" ,
+  "questions" : [
+
+    {
+      "question" : 1,
+      "java_file": "Question_1_Add_Numbers",
+      "test_files": ["week_0.Question_1_Add_Numbers_Test"],
+      "points": 4
+    },
+
+    {
+      "question" : 2,
+      "java_file": "Question_2_Shout",
+      "test_files": ["week_0.Question_2_Shout_Test"],
+      "points": 4
+    },
+
+    {
+      "question" : 3,
+      "java_file": "Question_3_Miles_To_Kilometers",
+      "test_files": ["week_0.Question_3_Miles_To_Kilometers_Test"],
+      "points": 4
+    },
+
+    {
+      "question" : 4,
+      "java_file": "Question_4_Triplicate_String",
+      "test_files": ["week_0.Question_4_Triplicate_String_Test"],
+      "points": 4
+    },
+
+    {
+      "question" : 5,
+      "java_file": "Question_5_Class_Setup",
+      "test_files": ["week_0.Question_5_Class_Setup_Test"],
+      "points": 4
+    }
+  ]
+}
